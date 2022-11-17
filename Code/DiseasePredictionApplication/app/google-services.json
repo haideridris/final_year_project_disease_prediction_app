@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1086044311482",
+    "project_id": "fir-login-47f65",
+    "storage_bucket": "fir-login-47f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086044311482:android:cda3c1926816df85725783",
+        "android_client_info": {
+          "package_name": "com.example.diseaseprediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086044311482-82ol3ab5m7ls3ji9m1939ggdcevbk1i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diseaseprediction",
+            "certificate_hash": "c158bfcde6a11b3ed450eb37ec3791b3fbf1344a"
+          }
+        },
+        {
+          "client_id": "1086044311482-ik1m86048qcejlu5cl13h9q3rgob786d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XXMyVrin2TX0Bdf3XaYjK0YcttnnPhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086044311482-ik1m86048qcejlu5cl13h9q3rgob786d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086044311482:android:56f6f7943d27f47f725783",
+        "android_client_info": {
+          "package_name": "com.example.diseasepredictionapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086044311482-ik1m86048qcejlu5cl13h9q3rgob786d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XXMyVrin2TX0Bdf3XaYjK0YcttnnPhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086044311482-ik1m86048qcejlu5cl13h9q3rgob786d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

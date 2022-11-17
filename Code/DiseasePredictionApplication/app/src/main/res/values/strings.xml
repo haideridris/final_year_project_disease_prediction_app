@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Disease Prediction App</string>
+    <string name="please_select_at_least_four_symptoms">Please select at least four symptoms:</string>
+</resources>
