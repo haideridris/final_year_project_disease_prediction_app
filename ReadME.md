@@ -1,8 +1,22 @@
+# Computer Science Final Year Project - Disease Prediction Android Application
+
+## Project Poster 
+
+Details the key aims, achievements, conclusions and technologies of this project
+
+![Poster](/poster.png)
+
+## About this project
+----------------------
+
 This repo contains my final year project I undertook for the academic year 21/22 as a Computer Science student. It contains my dissertation
 as well as my code submission. 
 
 This text file will provide guidance on how to run the Python file predictionmodel.py and how to run the Disease
 Prediction Android Application. These are found within the /Code subfolder 
+
+## Guide to run the predictionmodel.py file 
+-------------------
 
 Guide to run the predictionmodel.py in PyCharm (note the model ran and saved each time with this file is not 
 the same as the one used as the asset for the application, this tflite file can be found in 
@@ -46,17 +60,20 @@ click version 1.0.2 instead of latest version and install
 
 On every run a new "diseasepredictionmodel.tflite" file will be saved within this project folder
 
+## Guide to run the Disease Prediction Android Application
+---------------
+
 Guide to run the Disease Prediction Android Application (within Android Studio):
-Step 1) Download and install Android Studio
-Step 2) Click Open and locate where the DiseasePredictionApplication folder is saved on your machine
-Step 3) It should appear with a green android icon next to it. Please click this and click ok.
-Step 4) Allow the project to load and gradle sync to progress
-Step 5) Head to the drop down bar next to the green play button at the top of the screen. Click it then click
+1) Download and install Android Studio
+2) Click Open and locate where the DiseasePredictionApplication folder is saved on your machine
+3) It should appear with a green android icon next to it. Please click this and click ok.
+4) Allow the project to load and gradle sync to progress
+5) Head to the drop down bar next to the green play button at the top of the screen. Click it then click
 AVD Manager.
-Step 6) Click option Create Virtual Device
-Step 7) Select a Phone device (for the course of my developmemt Pixel 5 has worked fine as an emulator,
+6) Click option Create Virtual Device
+7) Select a Phone device (for the course of my developmemt Pixel 5 has worked fine as an emulator,
 this may be a good option to select). Then click Next.The select Q for the system image then click next again.
 Then click Finish.
-Step 8) You may now click the green play button at the top of the screen and run the application. Create an
+8) You may now click the green play button at the top of the screen and run the application. Create an
 account and then log in.
 
